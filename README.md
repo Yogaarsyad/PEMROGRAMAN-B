@@ -31,4 +31,4 @@ Evaluate the stability of the system based on the real part of the roots (stable
 Validates the numerical results with the analytical solution of the quadratic formula to ensure the accuracy and reliability of the method. The program also supports batch analysis for various controller gain values, and displays a summary of the results and convergence statistics.
 
 
-### Program yang tepat (benar berda di branch Dapa)
+### Program yang tepat (benar berada di branch Daffa)
